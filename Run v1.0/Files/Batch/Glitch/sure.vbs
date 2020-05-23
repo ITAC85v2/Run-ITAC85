@@ -1,0 +1,1 @@
+X=MsgBox("Are you sure you would like to run glitch.bat? This program may be hard to close.",4+48,"Are you sure?")

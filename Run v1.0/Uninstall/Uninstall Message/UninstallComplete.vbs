@@ -1,0 +1,1 @@
+X=MsgBox("The uninstallation was successful!",0+64,"Uninstallation complete")

@@ -1,0 +1,2 @@
+X=MsgBox("We are sorry you are experiencing problems in Run. Please list any problems you are experiencing in Report.txt.",0+64,"Bug Report")
+X=MsgBox("Report.txt was successfully created. Destination: [destination]\Run\Bug Report\Report",0+0,"Report.txt")

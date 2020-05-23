@@ -1,0 +1,14 @@
+Run, v.1.0 Bug Report 
+------------------------- 
+ 
+Please fill out the information below. 
+---------------------------------------- 
+ 
+ 1. What is the bug you are experiencing? 
+ 
+ 2. What happened before the bug? 
+ 
+ 3. Does it continue to happen every time? 
+ 
+-------------------------------------------------------- 
+Thanks for the report! We'll try to work on that soon. 
